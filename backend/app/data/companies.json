@@ -1,0 +1,80 @@
+[
+  {
+    "name": "American Express",
+    "ctc": "Above 15 LPA",
+    "roles": ["Business and Strategy Analyst", "Decision Science Analyst", "Business and Analytical Solutions Analyst"],
+    "required_skills": ["SQL", "Python", "Data Analysis", "Problem Solving", "PowerPoint", "Excel", "Machine Learning", "Business Strategy", "Stakeholder Communication", "Credit Risk", "Fraud Analytics", "Marketing Analytics"]
+  },
+  {
+    "name": "Arcesium",
+    "ctc": "Above 15 LPA",
+    "roles": ["FinOps Analyst"],
+    "required_skills": ["Fund Accounting", "Trade Accounting", "Reconciliation", "Financial Analysis", "Excel", "SQL", "Python", "Data Analytics", "Financial Modeling", "Business Analysis", "Middle Office Operations", "Valuation"]
+  },
+  {
+    "name": "Dolat Capital",
+    "ctc": "Above 15 LPA",
+    "roles": ["Economist - Research Associate", "Data Scientist - Equity Research Associate"],
+    "required_skills": ["Equity Research", "Financial Analysis", "Data Science", "Market Analysis", "Economics", "Research", "Excel", "Python"]
+  },
+  {
+    "name": "EnerGrid",
+    "ctc": "Below 12 LPA",
+    "roles": ["Data Analyst", "Consultant - Strategy"],
+    "required_skills": ["Data Analysis", "Consulting", "Strategy", "Client Communication", "Business Acumen", "Excel", "Flexibility"]
+  },
+  {
+    "name": "EXL",
+    "ctc": "12 to 15 LPA",
+    "roles": ["Analyst", "Associate Analyst"],
+    "required_skills": ["Data Analytics", "Business Analysis", "Process Improvement", "Excel", "SQL", "PowerPoint", "Problem Solving"]
+  },
+  {
+    "name": "ICICI Bank",
+    "ctc": "Below 12 LPA",
+    "roles": ["Deputy Manager - DM2"],
+    "required_skills": ["Sales", "Customer Relationship Management", "Banking", "Financial Products", "Business Development", "Communication", "Client Management", "Retail Banking", "Advisory"]
+  },
+  {
+    "name": "ICRA",
+    "ctc": "Below 12 LPA",
+    "roles": ["Senior Associate Analyst"],
+    "required_skills": ["Finance", "Credit Rating", "Risk Assessment", "Financial Analysis", "Research", "Excel", "Accounting"]
+  },
+  {
+    "name": "Kroll",
+    "ctc": "12 to 15 LPA",
+    "roles": ["Analyst - Economic Advisory"],
+    "required_skills": ["Valuation", "Financial Advisory", "Risk Management", "Economic Analysis", "Due Diligence", "Financial Modeling", "Excel"]
+  },
+  {
+    "name": "Leeford Healthcare",
+    "ctc": "Above 15 LPA",
+    "roles": ["Management Trainee"],
+    "required_skills": ["Sales", "Marketing", "Business Development", "Healthcare", "Communication", "Client Management", "Excel"]
+  },
+  {
+    "name": "Marketscience",
+    "ctc": "Below 12 LPA",
+    "roles": ["Market Research Analyst", "Strategy Analyst"],
+    "required_skills": ["Market Research", "Data Analysis", "PowerPoint", "Excel", "Consumer Insights", "Competitive Analysis"]
+  },
+  {
+    "name": "Shell",
+    "ctc": "Above 15 LPA",
+    "roles": ["Credit Data Analytics Lead", "R&A FAC OE Analyst"],
+    "required_skills": ["Data Analytics", "Credit Risk Management", "Operational Excellence", "Global Finance", "Data-Driven Decision Making", "SQL", "Excel"]
+  },
+  {
+    "name": "TresVista",
+    "ctc": "Above 15 LPA",
+    "roles": ["CFO Office Services"],
+    "required_skills": ["Investment Diligence", "Research", "Valuation", "Fund Administration", "Accounting", "Analytics", "Finance", "Financial Modeling"]
+  },
+  {
+    "name": "United Airlines",
+    "ctc": "Above 15 LPA",
+    "roles": ["Analyst - Forecast Modeling", "Associate - Data Analyst", "Associate - Data Scientist", "Associate - Analyst"],
+    "required_skills": ["Data Modeling", "Forecasting", "Data Science", "Performance Analysis", "Business Insights", "Cross-Functional Collaboration", "Excel", "SQL"]
+  }
+]
