@@ -1,4 +1,4 @@
-# CareerCopilot AI 🚀
+# DBE Copilot AI
 
 An autonomous, multi-agent AI career assistant and placement preparation advisor tailored for MBA students at the **Department of Business Economics (DBE), University of Delhi**. 
 
